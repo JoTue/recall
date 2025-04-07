@@ -32,7 +32,5 @@ License: MIT + file LICENSE
 Suggests: 
     knitr,
     markdown
-Remotes:
-    scDesign3=github::SONGDONGYUAN1994/scDesign3
 VignetteBuilder: knitr
 URL: https://lcrawlab.github.io/recall/
